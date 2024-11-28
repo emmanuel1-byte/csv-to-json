@@ -28,3 +28,4 @@ dist/
 
 .env
 lib64
+pyvenv.cfg
